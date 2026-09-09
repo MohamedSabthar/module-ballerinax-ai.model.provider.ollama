@@ -3,7 +3,7 @@ id = "ai-ollama-compiler-plugin"
 class = "io.ballerina.lib.ai.ollama.AiOllamaCompilerPlugin"
 
 [[dependency]]
-path = "../compiler-plugin/build/libs/ai.ollama-compiler-plugin-1.2.3.jar"
+path = "../compiler-plugin/build/libs/ai.ollama-compiler-plugin-1.2.5-SNAPSHOT.jar"
 
 [[dependency]]
 path = "../compiler-plugin/build/libs/ballerina-to-openapi-2.3.0.jar"
